@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://threemxtwo.vercel.app/"
 languageCode = "en"
 title = "Threemxtwo"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34659640271"
 email = "favo@gmail.com"
 location = "Plaza Santo Domingo, 11, 50003 Zaragoza"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://threemxtwo.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
