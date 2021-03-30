@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Crema antienvejecimiento para el cuidado de la piel para estimular la producción de colágeno."
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Es na línea de productos de cuidado de la marca Vichy, cuya acción está dirigida a combatir intensivamente los cambios relacionados con la edad. La gama de productos proporciona una corrección integral de los signos del envejecimiento cutáneo provocados por la deficiencia de colágeno. Vichy Liftactiv Collagen Specialist está desarrollado sobre la base de una tecnología innovadora que combina dos tipos de péptidos y un derivado de la vitamina C. Esta composición mejora instantáneamente el relieve y el tono de la epidermis. Con un uso regular, se reduce el número de arrugas y se aprieta el óvalo de la cara."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "aplicar por la mañana y por la noche sobre la piel limpia, después de aplicar un sérum o como único producto de cuidado. Evite el área de los ojos. Apto para piel sensible. Dermatológicamente Comprobado."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,21 +89,21 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "la crema es buena, tensa y mejora la tez, a menos que, por supuesto, la presencia de siliconas en la composición moleste, y se sientan cuando se aplican también, y como base para el maquillaje multicapa, por supuesto, no es la mejor opción. . Esta es mi primera crema con vitamina C y estoy básicamente satisfecho."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "La crema es maravillosa. Lo uso por la mañana y por la noche. La piel es suave, aterciopelada. Yo recomiendo."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Un excelente remedio. Hidrata perfectamente el rostro y no deja la piel demasiado grasosa. Alinea y aprieta."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
